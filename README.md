@@ -2,6 +2,10 @@
 
 A clean and simple full-stack web application built to manage drivers and handle ride booking requests. This project was developed as a technical assessment to show how to connect a React frontend with a Spring Boot backend using a MySQL database.
 
+## 🎥 Application Demonstration
+Due to file size constraints, the full demonstration video is securely hosted on Google Drive. 
+[Click here to watch the 3-minute Video Demonstration](https://drive.google.com/file/d/1GvJcVhOCtAVGDJsCCX-DTApT67vTFjjs/view?usp=sharing)
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** React.js
